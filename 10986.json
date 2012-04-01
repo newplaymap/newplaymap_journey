@@ -1,0 +1,627 @@
+{"type":"FeatureCollection","features":[
+  {
+  "id":"11176",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-84.514845,39.107998]
+    },
+  "properties": {
+      "longitude" : -84.514845,
+      "latitude" : 39.107998,
+      "event_id" : 11176,
+      "event_type" : "Production",
+      "event_to_date" : "April 3, 2011",
+      "event_date" : "March 16, 2011",
+      "content_type" : "Event",
+      "related_theater" : "Ensemble Theatre of Cincinnati",
+      "related_theater_id" : 11175,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11202",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-80.313664,36.117607]
+    },
+  "properties": {
+      "longitude" : -80.313664,
+      "latitude" : 36.117607,
+      "event_id" : 11202,
+      "event_type" : "Production",
+      "event_to_date" : "January 30, 2011",
+      "event_date" : "January 19, 2011",
+      "content_type" : "Event",
+      "related_theater" : "Paper Lantern Theatre",
+      "related_theater_id" : 11201,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11185",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-82.323938,29.649401]
+    },
+  "properties": {
+      "longitude" : -82.323938,
+      "latitude" : 29.649401,
+      "event_id" : 11185,
+      "event_type" : "Production",
+      "event_to_date" : "January 30, 2011",
+      "event_date" : "January 7, 2011",
+      "content_type" : "Event",
+      "related_theater" : "The Hippodrome",
+      "related_theater_id" : 11184,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11165",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-85.666735,42.965797]
+    },
+  "properties": {
+      "longitude" : -85.666735,
+      "latitude" : 42.965797,
+      "event_id" : 11165,
+      "event_type" : "Production",
+      "event_to_date" : "November 6, 2010",
+      "event_date" : "November 4, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Spectrum Theater",
+      "related_theater_id" : 11164,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11183",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-92.33,38.95]
+    },
+  "properties": {
+      "longitude" : -92.33,
+      "latitude" : 38.95,
+      "event_id" : 11183,
+      "event_type" : "Production",
+      "event_to_date" : "November 6, 2010",
+      "event_date" : "October 15, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Independent Actors Theatre",
+      "related_theater_id" : 11182,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11025",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-80.84292,35.218369]
+    },
+  "properties": {
+      "longitude" : -80.84292,
+      "latitude" : 35.218369,
+      "event_id" : 11025,
+      "event_type" : "Production",
+      "event_to_date" : "May 1, 2010",
+      "event_date" : "April 14, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Actor&#039;s Theatre of Charlotte",
+      "related_theater_id" : 10131,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11022",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-96.75,32.88]
+    },
+  "properties": {
+      "longitude" : -96.75,
+      "latitude" : 32.88,
+      "event_id" : 11022,
+      "event_type" : "Production",
+      "event_to_date" : "February 27, 2010",
+      "event_date" : "February 12, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Echo Theatre",
+      "related_theater_id" : 11021,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11015",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-91.530154,41.663701]
+    },
+  "properties": {
+      "longitude" : -91.530154,
+      "latitude" : 41.663701,
+      "event_id" : 11015,
+      "event_type" : "Production",
+      "event_to_date" : "February 21, 2010",
+      "event_date" : "January 29, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Riverside Theatre",
+      "related_theater_id" : 11014,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11020",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.900276,47.045016]
+    },
+  "properties": {
+      "longitude" : -122.900276,
+      "latitude" : 47.045016,
+      "event_id" : 11020,
+      "event_type" : "Production",
+      "event_to_date" : "February 20, 2010",
+      "event_date" : "January 28, 2010",
+      "content_type" : "Event",
+      "related_theater" : "Harlequin Theatre",
+      "related_theater_id" : 11019,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11013",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-87.683912,42.058468]
+    },
+  "properties": {
+      "longitude" : -87.683912,
+      "latitude" : 42.058468,
+      "event_id" : 11013,
+      "event_type" : "Production",
+      "event_to_date" : "November 29, 2009",
+      "event_date" : "November 2, 2009",
+      "content_type" : "Event",
+      "related_theater" : "Next Theatre Company",
+      "related_theater_id" : 11012,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11028",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-75.533951,40.04462]
+    },
+  "properties": {
+      "longitude" : -75.533951,
+      "latitude" : 40.04462,
+      "event_id" : 11028,
+      "event_type" : "Production",
+      "event_to_date" : "August 2, 2009",
+      "event_date" : "July 8, 2009",
+      "content_type" : "Event",
+      "related_theater" : "People&#039;s Light and Theatre",
+      "related_theater_id" : 11027,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"29436",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-75.532409,40.044967]
+    },
+  "properties": {
+      "longitude" : -75.532409,
+      "latitude" : 40.044967,
+      "event_id" : 29436,
+      "event_type" : "Production",
+      "event_to_date" : "August 2, 2009",
+      "event_date" : "July 8, 2009",
+      "content_type" : "Event",
+      "related_theater" : "People&#039;s Light &amp; Theatre",
+      "related_theater_id" : 23653,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11010",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-84.352157,33.762094]
+    },
+  "properties": {
+      "longitude" : -84.352157,
+      "latitude" : 33.762094,
+      "event_id" : 11010,
+      "event_type" : "Production",
+      "event_to_date" : "June 28, 2009",
+      "event_date" : "May 29, 2009",
+      "content_type" : "Event",
+      "related_theater" : "Horizon Theatre Company",
+      "related_theater_id" : 11009,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11008",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-111.896141,40.780362]
+    },
+  "properties": {
+      "longitude" : -111.896141,
+      "latitude" : 40.780362,
+      "event_id" : 11008,
+      "event_type" : "Production",
+      "event_to_date" : "April 26, 2009",
+      "event_date" : "April 1, 2009",
+      "content_type" : "Event",
+      "related_theater" : "Salt Lake Acting Company",
+      "related_theater_id" : 9795,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11007",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-73.993067,40.766896]
+    },
+  "properties": {
+      "longitude" : -73.993067,
+      "latitude" : 40.766896,
+      "event_id" : 11007,
+      "event_type" : "Production",
+      "event_to_date" : "April 19, 2009",
+      "event_date" : "March 25, 2009",
+      "content_type" : "Event",
+      "related_theater" : null,
+      "related_theater_id" : null,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11006",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-122.341493,47.682172]
+    },
+  "properties": {
+      "longitude" : -122.341493,
+      "latitude" : 47.682172,
+      "event_id" : 11006,
+      "event_type" : "Production",
+      "event_to_date" : "February 22, 2009",
+      "event_date" : "January 28, 2009",
+      "content_type" : "Event",
+      "related_theater" : "Seattle Public Theatre",
+      "related_theater_id" : 11005,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11000",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-104.988747,39.733478]
+    },
+  "properties": {
+      "longitude" : -104.988747,
+      "latitude" : 39.733478,
+      "event_id" : 11000,
+      "event_type" : "Rolling Premiere",
+      "event_to_date" : "July 26, 2008",
+      "event_date" : "July 10, 2008",
+      "content_type" : "Event",
+      "related_theater" : "Curious Theatre Company",
+      "related_theater_id" : 10567,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : "Deb Laufer's END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org",
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11004",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-70.603815,41.455561]
+    },
+  "properties": {
+      "longitude" : -70.603815,
+      "latitude" : 41.455561,
+      "event_id" : 11004,
+      "event_type" : "Production",
+      "event_to_date" : "July 30, 2008",
+      "event_date" : "July 3, 2008",
+      "content_type" : "Event",
+      "related_theater" : "The Vineyard Playhouse",
+      "related_theater_id" : 11003,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"10991",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-86.147224,39.777618]
+    },
+  "properties": {
+      "longitude" : -86.147224,
+      "latitude" : 39.777618,
+      "event_id" : 10991,
+      "event_type" : "Rolling Premiere",
+      "event_to_date" : "February 3, 2008",
+      "event_date" : "January 3, 2008",
+      "content_type" : "Event",
+      "related_theater" : "Phoenix Theatre",
+      "related_theater_id" : 10935,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : "Deb Laufer's END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org",
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"10987",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-80.061103,26.706872]
+    },
+  "properties": {
+      "longitude" : -80.061103,
+      "latitude" : 26.706872,
+      "event_id" : 10987,
+      "event_type" : "Rolling Premiere",
+      "event_to_date" : "November 25, 2007",
+      "event_date" : "October 16, 2007",
+      "content_type" : "Event",
+      "related_theater" : "Florida Stage",
+      "related_theater_id" : 8255,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : "Deb Laufer's END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org",
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11173",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-73.207172,42.71338]
+    },
+  "properties": {
+      "longitude" : -73.207172,
+      "latitude" : 42.71338,
+      "event_id" : 11173,
+      "event_type" : "Reading",
+      "event_to_date" : "July 16, 2007",
+      "event_date" : "July 16, 2007",
+      "content_type" : "Event",
+      "related_theater" : "Williamstown Theatre Festival",
+      "related_theater_id" : 11172,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11197",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-72.111178,41.309538]
+    },
+  "properties": {
+      "longitude" : -72.111178,
+      "latitude" : 41.309538,
+      "event_id" : 11197,
+      "event_type" : "Workshop",
+      "event_to_date" : "July 31, 2007",
+      "event_date" : "July 1, 2007",
+      "content_type" : "Event",
+      "related_theater" : "Eugene O&#039;Neill Theater Center",
+      "related_theater_id" : 11169,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : "The author was awarded a residency for the entire month of July, within which there was a rehearsal process, and two script-in-hand public readings. A stipend, room, board, and transportation were provided.",
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11166",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-80.061103,26.706872]
+    },
+  "properties": {
+      "longitude" : -80.061103,
+      "latitude" : 26.706872,
+      "event_id" : 11166,
+      "event_type" : "Reading",
+      "event_to_date" : "March 3, 2007",
+      "event_date" : "March 3, 2007",
+      "content_type" : "Event",
+      "related_theater" : "Florida Stage",
+      "related_theater_id" : 8255,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+,
+  {
+  "id":"11168",
+  "type":"Feature",
+  "geometry": {
+    "type":"Point",
+    "coordinates": [-73.991501,40.745886]
+    },
+  "properties": {
+      "longitude" : -73.991501,
+      "latitude" : 40.745886,
+      "event_id" : 11168,
+      "event_type" : "Workshop",
+      "event_to_date" : "February 3, 2007",
+      "event_date" : "February 3, 2007",
+      "content_type" : "Event",
+      "related_theater" : "New Georges",
+      "related_theater_id" : 11167,
+      "artist_id" : 10985,
+      "play_title" : "End Days",
+      "related_play_id" : 10986,
+      "generative_artist" : "Deb Laufer",
+      "event_description" : null,
+      "synopsis" : "Deb Laufer&#039;s END DAYS was first produced as part of a National New Play Network Rolling World Premiere at Florida Stage (West Palm Beach, FL), Curious Theatre Company (Denver, CO), and Phoenix Theatre (Indianapolis, IN) with funding from the Continued Life of New Plays Fund.  www.nnpn.org"
+      }
+  }
+
+  ]
+}
