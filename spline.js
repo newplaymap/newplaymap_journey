@@ -62,7 +62,7 @@ d3.json("10986.json", function(collection) {
         .attr("class", "line")
         .attr("d",  d3.svg.line()
           .tension(0) // Catmull–Rom
-          // .interpolate("cardinal")
+          .interpolate("cardinal")
         );
 
     duration = journey.node().getTotalLength() / 5 * 100;
