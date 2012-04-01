@@ -25,18 +25,49 @@ d3.json("us-states.json", function(collection) {
     .enter().append("path")
     .attr("d", path);
 });
-/*
-d3.json("10986-partial.json", function(collection) {
-  var journey = playJourneys
+
+d3.json("10986.json", function(collection) {
+  var journeyNodes = playJourneys
     .selectAll("path")
     .data(collection.features)
     .enter()
     .append("path")
     .attr("d", d3.geo.path().projection(xy));
+    
+    var i = 0;
+    var nodeCount = 0;
+    var l = journeyNodes[0].length;
+    var journeyPath = [];
+
+    while (i < l) {
+      if (journeyNodes[0][i]) {
+        var journeyPathRaw = journeyNodes[0][i]['attributes'][0]['nodeValue'];
+        var journeyArray = journeyPathRaw.split(',');
+        var journeyObject = [journeyArray[0].replace('M', ''), journeyArray[1].replace('m0', '')];
+
+        if (journeyObject !== 'undefined') {
+          journeyPath[nodeCount] = journeyObject;
+          nodeCount++;
+        }
+      }
+      
+      i++;
+    }
+    
+    // console.log(journeyPath);
+    // console.log(points);
+    
+    var journey = playJourneys.append("path")
+        .data([journeyPath])
+        .attr("class", "line")
+        .attr("d",  d3.svg.line()
+          .tension(0) // Catmull–Rom
+          // .interpolate("cardinal")
+        );
 
     duration = journey.node().getTotalLength() / 5 * 100;
     
-    var trailLength = 200;
+    var trailLength = 100;
     var i = 0;
     while (i < trailLength) {
       var opacity = (trailLength - i) / 100;
@@ -45,7 +76,7 @@ d3.json("10986-partial.json", function(collection) {
         .attr("transform", "translate(" + points[0] + ")")
         .style("opacity", 0)
         .transition()
-        .delay(10 * i)
+        .delay(15 * i)
         .ease('linear')
         .duration(duration)
         .attrTween("transform", translateAlong(journey.node()))
@@ -57,9 +88,9 @@ d3.json("10986-partial.json", function(collection) {
           .style("opacity", opacity);
         i++;
     }
+    
 });
-*/
-//*
+
 var journey = playJourneys.append("path")
     .data([points])
     .attr("class", "line")
@@ -70,7 +101,7 @@ var journey = playJourneys.append("path")
 
 duration = journey.node().getTotalLength() / 5 * 100;
 
-var trailLength = 200;
+var trailLength = 100;
 var i = 0;
 while (i < trailLength) {
   var opacity = (trailLength - i) / 100;
