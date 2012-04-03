@@ -29,9 +29,9 @@ d3.json("us-states.json", function(collection) {
     .enter().append("path")
     .attr("d", path);
 });
-/*
-d3.json("10986.json", function(collection) {
 
+// d3.json("10986.json", function(collection) {
+/*
   var journeyNodes = playJourneys
     .selectAll("path")
     .data(collection.features)
@@ -58,10 +58,10 @@ d3.json("10986.json", function(collection) {
       
       i++;
     }
-
+*/
     // console.log(journeyPath);
     // console.log(points);
-    
+/*  
     var journey = playJourneys.append("path")
         // .data([journeyPath])
         .data([fancyPath])
@@ -93,9 +93,9 @@ d3.json("10986.json", function(collection) {
           .style("opacity", opacity);
         i++;
     }
-    
-});
-*/
+   */ 
+// });
+
 var journey = playJourneys.append("path")
     .data([points])
     .attr("class", "line")
