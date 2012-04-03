@@ -2,29 +2,25 @@ body {
   font: 13px sans-serif;
 }
 
-#chart svg {
+svg {
+  position: absolute;
+  left: 0;
+  top: 0;
   width: 960px;
   height: 500px;
-  border: solid 1px #ccc;
 }
 
-rect {
-  fill: #fff;
+#states path {
+  fill: #000;
+  stroke: #000;
 }
 
-circle, .line {
+#journeys path {
+  stroke: none;
   fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
 }
 
 circle {
   fill: #fff;
-  fill-opacity: .2;
-  cursor: move;
-}
-
-circle.selected {
-  fill: #ff7f0e;
-  stroke: #ff7f0e;
+  stroke: none;
 }
