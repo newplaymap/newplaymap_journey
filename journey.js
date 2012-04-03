@@ -4,8 +4,26 @@ var w = 960,
     points = [[300, 200], [200, 300], [300, 100], [500, 200], [600, 300], [750, 200], [675, 175], [750, 200], [550, 150], [460, 288], [300, 200], [200, 300], [750, 200], [500, 200], [600, 300], [300, 100], [675, 175], [750, 200], [550, 150], [460, 288]];
     fancyPath = [[725.6292589043662,260.2512326081814], [716.6219624219601,377.15010417222163], [636.1927090679118,152.4506523689999], [556.178799994128,230.98440686868926], [721.2034935314543,277.1782016362987], [498.2092724969877,340.009453809029], [563.6594208951375,182.627694897874], [185.83133948779738,52.57451913146926], [612.4831647191993,171.33887242989675], [774.6989992077924,178.97953826652736], [774.7174169573673,178.96881530000707], [675.9190260109922,310.5392215131415], [298.5505547175005,187.72953033947482], [791.3158495118978,161.72711446824172], [195.0864494760271,43.5907284351662], [387.14635510353884,216.03768891078755], [830.6762480715479,138.2430789689091], [637.1149803225496,208.86599823211816], [760.0027562749528,421.39762718968484], [792.4518774359938,126.04494870644788], [812.5668413198703,146.12975602030565], [760.0027562749528,421.39762718968484], [791.4281538234787,162.08007802916825]];
     
-var randomPath = function(length) {
+var randomPath = function(pathLength) {
+  if (pathLength < 2) {
+    return null;
+  }
+  var max = [];
+  var val = [];
+  var randomPath = [];
+  max.x = 550;
+  max.y = 200;
   
+  var whileIndex = 0;
+  
+  while (whileIndex < pathLength) {
+    val.x = (Math.ceil(Math.random() * max.x / 10) * 10 + 200);
+    val.y = (Math.ceil(Math.random() * max.y / 10) * 10 + 100);
+    randomPath[whileIndex] = [val.x, val.y];
+    whileIndex++;
+  }
+  // console.log(randomPath);
+  return randomPath;
 }
     
 var trailLength = 50;
@@ -100,6 +118,9 @@ d3.json("us-states.json", function(collection) {
    */ 
 // });
 var traceJourney = function(route) {
+  if (route == null) {
+    return;
+  }
   var journey = playJourneys.append("path")
       .data([route])
       .attr("class", "line")
@@ -113,7 +134,6 @@ var traceJourney = function(route) {
   var i = 0;
   while (i < trailLength) {
     var opacity = (trailLength - i) / trailLength;
-    console.log(opacity);
     // var opacity = (trailLength - i) / 100;
     var thisJourney = playJourneys.append("circle")
       .attr("r", pointSize)
@@ -136,6 +156,17 @@ var traceJourney = function(route) {
 
 traceJourney(points);
 traceJourney(fancyPath);
+traceJourney(randomPath(3));
+traceJourney(randomPath(5));
+traceJourney(randomPath(5));
+traceJourney(randomPath(10));
+traceJourney(randomPath(10));
+traceJourney(randomPath(10));
+traceJourney(randomPath(10));
+traceJourney(randomPath(10));
+traceJourney(randomPath(15));
+
+// console.log(randomPath(3));
 
 
 // Returns an attrTween for translating along the specified path element.
