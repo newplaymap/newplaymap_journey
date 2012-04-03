@@ -155,19 +155,7 @@ var traceJourney = function(route) {
 }
 
 traceJourney(points);
-traceJourney(fancyPath);
-traceJourney(randomPath(3));
-traceJourney(randomPath(5));
-traceJourney(randomPath(5));
-traceJourney(randomPath(10));
-traceJourney(randomPath(10));
-traceJourney(randomPath(10));
-traceJourney(randomPath(10));
-traceJourney(randomPath(10));
-traceJourney(randomPath(15));
-
-// console.log(randomPath(3));
-
+// traceJourney(fancyPath);
 
 // Returns an attrTween for translating along the specified path element.
 function translateAlong(path) {
@@ -179,3 +167,22 @@ function translateAlong(path) {
     };
   };
 }
+
+/*
+ * jQuery commands
+ */
+$(document).ready(function() {
+  console.log('ready');
+  /*
+   * Set return key to generate random paths
+   */
+  $('body').keydown(function(event) {
+    if (event.which >= 50 && event.which <= 57) {
+      var pathNumber = event.which - 48;
+      traceJourney(randomPath(pathNumber));
+    }
+    else if (event.which === 13) {
+      traceJourney(randomPath(10));
+    }
+  });
+});
